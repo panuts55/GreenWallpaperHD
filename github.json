@@ -30,13 +30,6 @@
   "Data":
   [
     {
-      "id":1,
-      "name_category": "panuts55",
-      "title":"1",
-      "image":"https://cdn.statically.io/gh/panuts55/GreenWallpaperHD/main/1.webp",
-      "coin":1000
-    },
-    {
       "id": 2,
       "name_category": "panuts55",
       "title": "2",
